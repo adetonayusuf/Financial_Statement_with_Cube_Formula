@@ -168,3 +168,16 @@ The final workbook delivers:
 - Instant year-to-year analysis without rebuilding pivots.
 - A robust bridge between Power BI analytics and Excel reporting flexibility.
 
+## Contact
+
+Author: Yusuf Adetona
+
+Email: yustone003@yahoo.com
+
+LinkedIn: [Yusuf Adetona HND, BSc, AAT, ACA, ACCA(Dip IFRS)](https://www.linkedin.com/in/yusuf-adetona/)
+
+Portfolio: https://www.datascienceportfol.io/adetonayusuf
+
+
+#BIDA #CFI #PowerBI #FinancialStatementwithPowerBI
+
