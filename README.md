@@ -97,6 +97,8 @@ Interest Expense: Similar formula with “Interest Expenses” category
 
 Income Tax Expense: “Income Tax Expenses” category
 
+![IS](https://github.com/adetonayusuf/Financial_Statement_with_Cube_Formula/blob/main/Income%20Statement%20-%20Cube.png)
+
 
 ### Balance Sheet
 
@@ -124,6 +126,8 @@ Retained Earnings
 
     =CUBEVALUE("ThisWorkbookDataModel","[Measures].[Retained Earnings]",D$8)
 
+![BS](https://github.com/adetonayusuf/Financial_Statement_with_Cube_Formula/blob/main/BS%20-%20Cube.png)
+
 
 ### Cash Flow Statement
 
@@ -142,6 +146,8 @@ Opening Balances
   Financing Activities
 
       Derived from movement in equity accounts and retained earnings.
+
+![CF](https://github.com/adetonayusuf/Financial_Statement_with_Cube_Formula/blob/main/cf%20-%20cube.png)
 
   ### Key Takeaways
   - Cube Formulas bridge Power BI and Excel, offering dynamic control over financial report layouts.
